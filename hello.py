@@ -11,4 +11,7 @@ print("I love my Luffy cat")
 print("I am in ctg")
 print("But I love Wolfy more")
 
+print("Shakira cat is too beautiful")
+
+print("Luffy just broke the TV")
 print("Shakira cat is too")
